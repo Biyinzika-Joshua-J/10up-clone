@@ -10,7 +10,7 @@ const page = () => {
           heading="CAREERS"
           backgroundVideoUrl="https://10up.com/wp-content/themes/10up-sept2016/assets/img/careers-bg-video.mp4"
           content="What makes 10up a great place to work? Challenging projects, great clients, and a team that is truly better together."
-          showPauseButton={false}
+          showPauseButton={true}
           popUpVideoUrl="https://www.youtube.com/embed/YHvfrDhWIq0?si=BEhuRgB2bQPbXKhb"
         />
       </div>
